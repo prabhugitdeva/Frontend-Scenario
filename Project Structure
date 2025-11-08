@@ -1,0 +1,15 @@
+borrowing-calculator-e2e/
+├─ pom.xml
+├─ README.md
+└─ src
+   ├─ test
+      ├─ java
+      │  └─ com.example.tests
+      │     ├─ RunCucumberTest.java
+      │     ├─ steps
+      │     │  └─ BorrowingSteps.java
+      │     └─ pages
+      │        └─ BorrowingPage.java
+      └─ resources
+         └─ features
+            └─ borrowing.feature
